@@ -1,0 +1,33 @@
+{
+  "name": "ts-react-grid",
+  "version": "1.0.1",
+  "description": "Typescript react grid component",
+  "main": "index.js",
+  "scripts": {
+    "prepare" : "tsc && echo \"Finished building NPM package\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvdende/ts-react-grid.git"
+  },
+  "author": "Rouan van der Ende (rouan@8bo.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rvdende/ts-react-grid/issues"
+  },
+  "homepage": "https://github.com/rvdende/ts-react-grid#readme",
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.11",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "react-sizeme": "^2.6.10"
+  }
+}
