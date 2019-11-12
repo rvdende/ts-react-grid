@@ -41,6 +41,7 @@ We do not handle responsive width for you, but you can easily toggle columnCount
 ## Changelog:
 
 ```
+v1.0.3 fix props for gutterWidth and gutterHeight
 v1.0.2 release. update README.md/gitignore
 v1.0.1 update README.md
 v1.0.0 initial npm publish
