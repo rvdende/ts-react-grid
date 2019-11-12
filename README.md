@@ -1,4 +1,5 @@
-WARNING: This is a very new package.
+Quick and easy div grid with adjustable column count and gutter sizes. 
+Grid will automatically fill available width.
 
 ![Alt text](ts-react-grid_preview.png?raw=true "Preview")
 
@@ -40,6 +41,7 @@ We do not handle responsive width for you, but you can easily toggle columnCount
 ## Changelog:
 
 ```
+v1.0.2 release. update README.md/gitignore
 v1.0.1 update README.md
 v1.0.0 initial npm publish
 ```
