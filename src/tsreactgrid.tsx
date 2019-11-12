@@ -2,8 +2,14 @@ import * as React from "react";
 import { SizeMe } from 'react-sizeme'
 
 interface Props {
+    /** react divs go here. see readme. */
     children: any;
+    /** how many columns do you want? */
     columnCount?: number;
+    /** pixel count between columns. default: 10 */
+    gutterWidth?: number;
+    /** pixel count between rows. default: 10 */
+    gutterHeight?: number;
 }
 
 interface State {
