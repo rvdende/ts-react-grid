@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# built files
+/index.js
+/index.d.ts
+/tsreactgrid.d.ts
+/tsreactgrid.js
